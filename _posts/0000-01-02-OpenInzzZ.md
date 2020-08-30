@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+xue hua piao piao 
 Use the left arrow to go back!
